@@ -1,2 +1,2 @@
-# Template-1
+# kit-design
 application
